@@ -9,7 +9,7 @@
       "build": "parcel build ./index.html --dist-dir docs --public-url ./",
       "clean": "del-cli ./.parcel-cache ./docs ./dist"
     },
-    "name": "fe22-ali-hamze-j2-miniraknare",
+    "name": "fe22-js2-ali-hamze-minir-knare",
     "version": "1.0.0",
     
     "keywords": [],
